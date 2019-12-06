@@ -1,66 +1,10 @@
 # Java资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 [ImportNew](http://www.importnew.com/14429.html)。
-
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
 * * *
 
-### 我们要做什么？
-
-- 基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[OWNER：Java配置文件解决方案](http://hao.jobbole.com/owner/)》
-  - 《[Spring Boot：简化Spring应用初始搭建以及开发过程](http://hao.jobbole.com/spring-boot/)》
-  - 《[SonarQube：开源的代码质量管理工具](http://hao.jobbole.com/sonarqube/)》
-
-* * *
-
-### 如何参与本项目？
-
-<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 在用 Java；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「Java大全」 -->
-
-* * *
-
-### 如何为列表贡献新资源？
-
-欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
-
-* 请确保推荐的资源自己使用过
-* 提交PR时请注明推荐理由
-
-资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
-
-感谢您的贡献！
-
-* * *
-
-### 本项目的参与者
-
-- 维护者：[tangyouhua](https://github.com/tangyouhua)
-
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、[Zemo](http://www.jobbole.com/members/zemo/)、[sdcuike](https://github.com/sdcuike)、[danielwii](https://github.com/danielwii)、[oneDay](http://www.jobbole.com/members/q1118024125/)、[邢敏](https://github.com/dfghj44444)、[heikehuan](https://github.com/heikehuan)、[fgcui1204](https://github.com/fgcui1204)、[wenxueliu](https://github.com/wenxueliu)、[Gentle Yang](https://github.com/node)、[黄小非](http://hao.jobbole.com/author/huangxiaofei/)、[wangtg](http://www.jobbole.com/members/wtgn1m1/)、[百焱](http://www.jobbole.com/members/2937134480/)、[胡不GUI](http://www.jobbole.com/members/2480130384/)、[Another_mt](http://www.jobbole.com/members/mtHzm/)、[Rainbow](http://www.jobbole.com/members/adonis/)、[super^糖](http://www.jobbole.com/members/menghuanqiqi)、[黄余粮](http://www.jobbole.com/members/huangyuliang/)、[Sun](http://www.jobbole.com/members/sunbojian100/)、[李伟高](https://github.com/SoberChina)、[lixiaobao](https://github.com/q977734161)、You
-
-注：名单不分排名，不定期补充更新
-
-* * *
-
-<!-- ### 奖励计划
-
-虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
-
-* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
-* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
-
-* * * -->
 ### 目录
 - [Java资源大全中文版](#awesome-java-cn)
     - [古董级工具](#ancients)
