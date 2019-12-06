@@ -680,38 +680,3 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Stephen Colebourne](https://twitter.com/jodastephen)： Java Champion、演讲者。
 * [Tim Boudreau](https://twitter.com/kablosna)：作家、NetBeans大牛。
 * [Trisha Gee](https://twitter.com/trisha_gee)：Java Champion、演讲者。
-
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-
-* ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
-* ImportNew：最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。
-<br><img src="http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg" width=150 height=150>
-
-<h3 id="websites">知名网站</h3>
-
-*值得关注的Java技术站点。*
-
-<h4>中文站点</h4>
-
-* [ImportNew](http://www.importnew.com/)（ImportNew 专注 Java 技术）
-
-<h4>英文站点</h4>
-
-* [Android Arsenal](https://android-arsenal.com)
-* [Google Java Style](http://hao.jobbole.com/google-java-style/)：[官网](https://google.github.io/styleguide/javaguide.html)
-* [InfoQ](http://hao.jobbole.com/infoq/)：[官网](http://www.infoq.com/)
-* [Java Code Geeks](http://www.javacodegeeks.com/)
-* [Java, SQL, and jOOQ](http://blog.jooq.org/)
-* [Java.net](http://java.net/)
-* [Javalobby](http://java.dzone.com/)
-* [JavaWorld](http://hao.jobbole.com/javaworld/)：[官网](http://www.javaworld.com/)
-* [JAXenter](http://hao.jobbole.com/jaxenter/)：[官网](https://jaxenter.com/)
-* [RebelLabs](http://zeroturnaround.com/rebellabs/)
-* [The Java Specialist' Newsletter](http://hao.jobbole.com/javaspecialists/)：[官网](http://www.javaspecialists.eu/archive/archive.jsp)
-* [The Takipi Blog](http://blog.takipi.com/)
-* [TheServerSide.com](http://hao.jobbole.com/theserverside/)：服务器编程交流平台是一个老牌的IT信息网站，关注服务器端编程的，以Java和.Net周边信息为主。[官网](http://www.theserverside.com/)
-* [Thoughts On Java](http://www.thoughts-on-java.org/)
-* [Vanilla Java](http://vanillajava.blogspot.ch/)
-* [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
-* [Voxxed](https://www.voxxed.com/)
-* [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
